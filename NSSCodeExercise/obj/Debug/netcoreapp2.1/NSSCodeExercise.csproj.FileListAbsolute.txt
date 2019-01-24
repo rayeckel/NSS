@@ -1,0 +1,14 @@
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\NSSCodeExercise.deps.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\NSSCodeExercise.runtimeconfig.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\NSSCodeExercise.runtimeconfig.dev.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\NSSCodeExercise.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\NSSCodeExercise.pdb
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\AdvancedFizzBuzz.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\bin\Debug\netcoreapp2.1\AdvancedFizzBuzz.pdb
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.csprojAssemblyReference.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.csproj.CoreCompileInputs.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.AssemblyInfoInputs.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.AssemblyInfo.cs
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.csproj.CopyComplete
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\NSSCodeExercise\obj\Debug\netcoreapp2.1\NSSCodeExercise.pdb

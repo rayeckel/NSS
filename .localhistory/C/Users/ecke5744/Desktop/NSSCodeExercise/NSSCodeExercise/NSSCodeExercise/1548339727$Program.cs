@@ -18,7 +18,7 @@ namespace NSSCodeExercise
             program.DoFizzBuzz();
         }
 
-        public void DoFizzBuzz()
+        void DoFizzBuzz()
         {
             _fizzBuzzService.DoFizzBuzz(1, 100);
         }

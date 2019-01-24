@@ -1,0 +1,14 @@
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.deps.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.runtimeconfig.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.runtimeconfig.dev.json
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.pdb
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.csprojAssemblyReference.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.csproj.CoreCompileInputs.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.AssemblyInfoInputs.cache
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.AssemblyInfo.cs
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.pdb
