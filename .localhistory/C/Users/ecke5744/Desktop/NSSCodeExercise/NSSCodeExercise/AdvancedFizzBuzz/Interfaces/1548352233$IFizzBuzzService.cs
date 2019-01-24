@@ -14,7 +14,5 @@ namespace AdvancedFizzBuzz.Interfaces
             int highVal,
             string token1 = "Fizz",
             string token2 = "Buzz");
-
-        void DoFizzBuzz(IList<int> modValues, IDictionary<int, string> outputDict);
     }
 }

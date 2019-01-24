@@ -21,12 +21,9 @@ namespace NSSCodeExercise
 
         public void DoFizzBuzz()
         {
-            //_fizzBuzzService.DoFizzBuzz(1, 100);
-            //_fizzBuzzService.DoFizzBuzz(-2147, 100);
-            //_fizzBuzzService.DoFizzBuzz(new List<int> { 5, 33, 9, 254, 635, 88, 42, 3 });
-            _fizzBuzzService
-                .DoFizzBuzz(new List<int> { 65, 30, 390 },
-                            new Dictionary<int, string> { { 5, "Cat" }, { 13, "Chicken" }, { 6, "Duck" } });
+            _fizzBuzzService.DoFizzBuzz(1, 100);
+            _fizzBuzzService.DoFizzBuzz(-2147, 100);
+            _fizzBuzzService.DoFizzBuzz(new List<int> { 5, 33, 9, 254, 635, 88, 42, 3 });
         }
     }
 }

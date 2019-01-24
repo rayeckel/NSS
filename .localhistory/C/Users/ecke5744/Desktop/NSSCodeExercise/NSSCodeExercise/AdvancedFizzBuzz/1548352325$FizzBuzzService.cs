@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using AdvancedFizzBuzz.Interfaces;
 
 namespace AdvancedFizzBuzz
@@ -61,33 +60,6 @@ namespace AdvancedFizzBuzz
                 }
 
                 Console.WriteLine(str + Environment.NewLine);
-            }
-        }
-
-        public void DoFizzBuzz(IList<int> modValues, IDictionary<int, string> outputDict)
-        {
-            var outputMax = outputDict.Keys.Max();
-
-            foreach (var modValue in modValues)
-            {
-                var outputString = modValue.ToString();
-                var outPutDictString = String.Empty;
-
-                foreach (var kvp in outputDict)
-                {
-                    if (modValue % Math.Abs(kvp.Key) == 0)
-                    {
-                        outPutDictString += kvp.Value;
-                    }
-                }
-
-                if (!String.IsNullOrEmpty(outPutDictString))
-                {
-                    Console.WriteLine(outPutDictString);
-                    outputString = String.Empty;
-                }
-
-                Console.WriteLine(outputString + Environment.NewLine);
             }
         }
     }

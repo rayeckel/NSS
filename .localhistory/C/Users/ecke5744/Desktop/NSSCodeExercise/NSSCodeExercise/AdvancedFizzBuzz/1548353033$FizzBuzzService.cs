@@ -71,24 +71,24 @@ namespace AdvancedFizzBuzz
             foreach (var modValue in modValues)
             {
                 var outputString = modValue.ToString();
-                var outPutDictString = String.Empty;
 
                 foreach (var kvp in outputDict)
                 {
+                    var outPutDictString = String.Empty;
+
                     if (modValue % Math.Abs(kvp.Key) == 0)
                     {
                         outPutDictString += kvp.Value;
                     }
-                }
 
-                if (!String.IsNullOrEmpty(outPutDictString))
-                {
-                    Console.WriteLine(outPutDictString);
-                    outputString = String.Empty;
-                }
+                    if (!String.IsNullOrEmpty(outPutDictString))
+                    {
+                        Console.WriteLine(kvp.Value);
+                        outputString = String.Empty;
+                    }
 
-                Console.WriteLine(outputString + Environment.NewLine);
+                    Console.WriteLine(outputString + Environment.NewLine);
+                }
             }
         }
     }
-}
