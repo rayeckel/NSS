@@ -14,8 +14,8 @@ namespace AdvancedFizzBuzz
             foreach (var i in intVals)
             {
                 string str = i.ToString();
-                var isThreeMultiple = Math.Abs(i) % 3 == 0;
-                var isFiveMultiple = Math.Abs(i) % 5 == 0;
+                var isThreeMultiple = i % 3 == 0;
+                var isFiveMultiple = i % 5 == 0;
 
                 if (isThreeMultiple && isFiveMultiple)
                 {
@@ -42,9 +42,10 @@ namespace AdvancedFizzBuzz
         {
             for (int i = lowVal; i <= highVal; i++)
             {
+                i = Math.Abs(i);
                 string str = i.ToString();
-                var isThreeMultiple = Math.Abs(i) % 3 == 0;
-                var isFiveMultiple = Math.Abs(i) % 5 == 0;
+                var isThreeMultiple = i % 3 == 0;
+                var isFiveMultiple = i % 5 == 0;
 
                 if (isThreeMultiple && isFiveMultiple)
                 {
