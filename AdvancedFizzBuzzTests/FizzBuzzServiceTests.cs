@@ -69,5 +69,19 @@ namespace AdvancedFizzBuzzTests
                 Assert.Equal(253, sw.ToString().Length);
             }
         }
+
+        [Fact]
+        public void Requirement3Test()
+        {
+            using (var sw = new StringWriter())
+            {
+                Console.SetOut(sw);
+
+                _fizzBuzzService
+                    .DoFizzBuzz(-18, 235, new Dictionary<int, string> { { 3, "Fizz" }, { 11, "Buzz" }, { 42, "Bang" } });
+
+                Assert.Equal(1354, sw.ToString().Length);
+            }
+        }
     }
 }

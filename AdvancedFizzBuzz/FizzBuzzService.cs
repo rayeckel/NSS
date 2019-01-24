@@ -5,7 +5,7 @@ using AdvancedFizzBuzz.Interfaces;
 
 namespace AdvancedFizzBuzz
 {
-    public class FizzBuzzService : IFizzBuzzService
+    public sealed class FizzBuzzService : IFizzBuzzService
     {
         public void DoFizzBuzz(IList<int> modValues, IDictionary<int, string> outputDict)
         {
@@ -34,13 +34,42 @@ namespace AdvancedFizzBuzz
         }
 
         public void DoFizzBuzz(
+            int lowVal,
+            int highVal,
+            IDictionary<int, string> outputDict)
+        {
+            var outputMax = outputDict.Keys.Max();
+
+            for (int modValue = lowVal; modValue <= highVal; modValue++)
+            {
+                var outPutDictString = String.Empty;
+
+                foreach (var kvp in outputDict)
+                {
+                    if (modValue % Math.Abs(kvp.Key) == 0)
+                    {
+                        outPutDictString += kvp.Value;
+                    }
+                }
+
+                if (!String.IsNullOrEmpty(outPutDictString))
+                {
+                    Console.WriteLine(outPutDictString);
+                    continue;
+                }
+
+                Console.WriteLine(modValue.ToString());
+            }
+        }
+
+        public void DoFizzBuzz(
             IList<int> intVals,
             string token1,
             string token2)
         {
-            foreach (var i in intVals)
+            foreach (var modValue in intVals)
             {
-                OutPutMods(i, token1, token2);
+                OutPutMods(modValue, token1, token2);
             }
         }
 
@@ -50,9 +79,9 @@ namespace AdvancedFizzBuzz
             string token1,
             string token2)
         {
-            for (int i = lowVal; i <= highVal; i++)
+            for (int modValue = lowVal; modValue <= highVal; modValue++)
             {
-                OutPutMods(i, token1, token2);
+                OutPutMods(modValue, token1, token2);
             }
         }
 
