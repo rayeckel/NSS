@@ -1681,6 +1681,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "AdvancedFizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/AdvancedFizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdvancedFizzBuzz.dll": {}
+        }
       }
     }
   },
@@ -5739,10 +5749,16 @@
         "xunit.runner.visualstudio.2.3.1.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "AdvancedFizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../AdvancedFizzBuzz/AdvancedFizzBuzz.csproj",
+      "msbuildProject": "../AdvancedFizzBuzz/AdvancedFizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "AdvancedFizzBuzz >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "xunit >= 2.3.1",
@@ -5778,7 +5794,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ecke5744\\Desktop\\NSSCodeExercise\\NSSCodeExercise\\AdvancedFizzBuzz\\AdvancedFizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\ecke5744\\Desktop\\NSSCodeExercise\\NSSCodeExercise\\AdvancedFizzBuzz\\AdvancedFizzBuzz.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

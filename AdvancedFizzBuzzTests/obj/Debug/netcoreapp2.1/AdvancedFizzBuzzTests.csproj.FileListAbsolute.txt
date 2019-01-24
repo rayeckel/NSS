@@ -12,3 +12,6 @@ C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\
 C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.AssemblyInfo.cs
 C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.dll
 C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.pdb
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzz.dll
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\bin\Debug\netcoreapp2.1\AdvancedFizzBuzz.pdb
+C:\Users\ecke5744\Desktop\NSSCodeExercise\NSSCodeExercise\AdvancedFizzBuzzTests\obj\Debug\netcoreapp2.1\AdvancedFizzBuzzTests.csproj.CopyComplete

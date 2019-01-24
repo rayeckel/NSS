@@ -25,7 +25,7 @@ namespace NSSCodeExercise
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("*** Requirement #1 Bullet #1");
             Console.ForegroundColor = ConsoleColor.Blue;
-            _fizzBuzzService.DoFizzBuzz(-20, 10);
+            _fizzBuzzService.DoFizzBuzz(-2147, 100);
 
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("*** Requirement #1 Bullet #2");
@@ -42,7 +42,7 @@ namespace NSSCodeExercise
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("*** Requirement #2 - Basic FizzBuzz");
             Console.ForegroundColor = ConsoleColor.Blue;
-            _fizzBuzzService.DoFizzBuzz(1, 50);
+            _fizzBuzzService.DoFizzBuzz(1, 100);
         }
     }
 }
